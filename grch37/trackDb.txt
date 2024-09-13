@@ -6,3 +6,4 @@ type bigBed 6 +
 visibility dense
 url http://srv00.recas.ba.infn.it/cgi/atlas/getpage_dev.py?rel=h19&acc=$$
 urlLabel REDIportal Details: 
+html reditrack.html
