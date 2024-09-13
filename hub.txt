@@ -1,0 +1,6 @@
+hub REDIportal
+shortLabel REDIportal track hub
+longLabel REDIportal exploring genomic context of RNA editing at dsRNAs
+genomesFile genomes.txt
+email ernesto.picardi@uniba.it
+descriptionUrl aboutrediportal.html 

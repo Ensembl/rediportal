@@ -1,0 +1,5 @@
+genome grch38
+trackDb grch38/trackDb.txt
+
+genome grch37
+trackDb grch37/trackDb.txt

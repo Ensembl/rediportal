@@ -1,0 +1,8 @@
+track REDIportal hg19/GRCh37
+bigDataUrl http://srv00.recas.ba.infn.it/webshare/redidata/TABLE1_hg19_complete_uniprot_rnacentral_tcga_9-7-2024.sorted.bb
+shortLabel REDIportal
+longLabel REDIportal element
+type bigBed 6 +
+visibility dense
+url http://srv00.recas.ba.infn.it/cgi/atlas/getpage_dev.py?rel=h19&acc=$$
+urlLabel REDIportal Details: 
