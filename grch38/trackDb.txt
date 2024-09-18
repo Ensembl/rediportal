@@ -1,5 +1,5 @@
 track REDIportal_hg38_GRCh38
-bigDataUrl http://srv00.recas.ba.infn.it/webshare/redidata/TABLE1_hg38_complete_uniprot_rnacentral_tcga_9-7-2024.sorted.bb
+bigDataUrl https://ftp.ebi.ac.uk/pub/databases/ensembl/collaborations/TABLE1_hg38_complete_uniprot_rnacentral_tcga_9-7-2024.sorted-fixed.bb
 shortLabel REDIportal
 longLabel REDIportal element
 type bigBed 6 +
